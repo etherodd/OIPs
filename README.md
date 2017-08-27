@@ -1,7 +1,9 @@
 <h1 align="center">Etherodd: The Global Decentralized Game Playgrounds Based On Ethereum</h1>
 
 <p align="center">
-  <img src="https://cdn.rawgit.com/etherodd/logo/master/logo.png" width="300"/>
+  <a href="https://etherodd.com">
+      <img src="https://cdn.rawgit.com/etherodd/logo/master/logo.png" width="300"/>
+  </a>
   <br />
   <a href="https://img.shields.io/badge/branch-master-brightgreen.svg?style=flat-square">
     <img src="https://img.shields.io/badge/branch-master-brightgreen.svg?style=flat-square" />
